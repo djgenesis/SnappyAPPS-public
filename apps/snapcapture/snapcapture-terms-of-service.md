@@ -43,9 +43,9 @@ We aim to keep the app working reliably. If we retire it, we will give at least 
 
 The app is provided "as is". To the maximum extent permitted by law, SnappyAI Solutions is not liable for indirect or consequential loss, or for loss of data where you have not used the provided export and backup features. Nothing in these terms limits rights you cannot waive under applicable law.
 
-## 10. Governing law and contact
+## 10. Worldwide scope and contact
 
-These terms are governed by the laws of Greece, without prejudice to mandatory consumer protections in your country of residence. Questions: snappyaisolutions@gmail.com.
+These terms apply to users **worldwide**, wherever the app is made available through Google Play. They are not limited to any single country. Nothing in these terms removes or reduces mandatory consumer rights you have under the law of your country of residence, including rights to cancel, to a refund, and to bring a claim before the courts competent in your jurisdiction. If a provision cannot be enforced in your jurisdiction, it will be modified only to the minimum extent needed to make it enforceable there, and the remaining provisions stay in effect. Questions: snappyaisolutions@gmail.com.
 
 ---
 

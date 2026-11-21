@@ -2,6 +2,8 @@
 
 Public-facing policy documents for the 20 SnappyAI Solutions Android apps. This repository contains **documents only** — no source code, credentials, signing keys or internal plans.
 
+The apps and these terms are offered **worldwide** through Google Play; the Terms of Service apply globally and preserve mandatory local consumer rights.
+
 All documents are currently **drafts generated from the product specification** and require legal review before being linked from a Play listing. Effective date: 21 November 2026. Publisher: SnappyAI Solutions. Support and privacy contact: **snappyaisolutions@gmail.com**.
 
 | App | Category | Documents |
